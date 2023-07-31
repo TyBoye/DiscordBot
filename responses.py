@@ -13,8 +13,5 @@ def handle_response(message) -> str:
     if p_message == "rolldice":
         return str(random.randint(1, 6))
 
-    if =_message == ""
-
-
     if p_message == "help":
         return "`rolldice\nspam\nhello`"
